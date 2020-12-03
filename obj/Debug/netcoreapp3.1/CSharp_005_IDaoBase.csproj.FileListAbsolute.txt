@@ -1,0 +1,72 @@
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.exe
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.deps.json
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.runtimeconfig.json
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.runtimeconfig.dev.json
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.pdb
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.AssemblyInfo.cs
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.pdb
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.genruntimeconfig.cache
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.csproj.CopyComplete
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.pdb
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.exe
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.deps.json
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.runtimeconfig.json
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.runtimeconfig.dev.json
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\CSharp_005_IDaoBase.pdb
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.csprojAssemblyReference.cache
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.AssemblyInfoInputs.cache
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.AssemblyInfo.cs
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.csproj.CopyComplete
+C:\Users\Adrian\OneDrive\Área de Trabalho\Projetos Visual Studio\learningPathAdrian\CSharp_005_IDaoBase\obj\Debug\netcoreapp3.1\CSharp_005_IDaoBase.genruntimeconfig.cache
